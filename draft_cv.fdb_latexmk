@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1514305434 "/home/blur/Documents/learn-latex/draft_cv.tex" "draft_cv.pdf" "draft_cv" 1514305434
+["pdflatex"] 1514305669 "/home/blur/Documents/learn-latex/draft_cv.tex" "draft_cv.pdf" "draft_cv" 1514305670
   "/etc/texmf/web2c/texmf.cnf" 1511912286 1101 af7716885e081ab43982cab7b4672c1a ""
-  "/home/blur/Documents/learn-latex/draft_cv.tex" 1514305433 8679 c8b45e0fe2f18297b55e2a7e3270061e ""
+  "/home/blur/Documents/learn-latex/draft_cv.tex" 1514305669 8695 1f38ceb6388202dd9787ca5f268c56aa ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm" 1136768653 2796 d37c29814a6717720ee1a7c9a0b2c3b8 ""
@@ -85,11 +85,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1511912508 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1511912517 3853718 18823355c34182c9ddd8350a0ee93b31 ""
-  "draft_cv.aux" 1514305434 744 9979fe1e4751d0754ec16ccbd6bad158 ""
-  "draft_cv.out" 1514305434 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "draft_cv.tex" 1514305433 8679 c8b45e0fe2f18297b55e2a7e3270061e ""
+  "draft_cv.aux" 1514305670 744 9979fe1e4751d0754ec16ccbd6bad158 ""
+  "draft_cv.out" 1514305670 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "draft_cv.tex" 1514305669 8695 1f38ceb6388202dd9787ca5f268c56aa ""
   (generated)
-  "draft_cv.aux"
   "draft_cv.pdf"
-  "draft_cv.log"
   "draft_cv.out"
+  "draft_cv.aux"
+  "draft_cv.log"
