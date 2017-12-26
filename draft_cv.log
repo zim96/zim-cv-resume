@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.28)  25 DEC 2017 22:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.28)  26 DEC 2017 16:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -561,7 +561,12 @@ Package microtype Info: Loading generic settings for font family
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
- [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\OT1/pplj/m/it/10 (+20) November
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 \langbox=\skip93
@@ -576,11 +581,11 @@ Package rerunfilecheck Info: File `draft_cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 11084 strings out of 493029
- 201252 string characters out of 6136233
+ 11087 strings out of 493029
+ 201282 string characters out of 6136233
  396473 words of memory out of 5000000
  14369 multiletter control sequences out of 15000+600000
- 47813 words of font info for 166 fonts, out of 8000000 for 9000
+ 48019 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,22n,80p,375b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -589,7 +594,7 @@ f-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pa
 latino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on draft_cv.pdf (2 pages, 63449 bytes).
+Output written on draft_cv.pdf (2 pages, 64233 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
