@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1514326360 "/home/blur/Documents/learn-latex/draft_cv.tex" "draft_cv.pdf" "draft_cv" 1514326362
-  "/etc/texmf/web2c/texmf.cnf" 1511912286 1101 af7716885e081ab43982cab7b4672c1a ""
-  "/home/blur/Documents/learn-latex/draft_cv.tex" 1514326359 8699 3740527825aa653d95764d09af71dce0 ""
+["pdflatex"] 1519996215 "/home/blr/Documents/latex_cv/draft_cv.tex" "draft_cv.pdf" "draft_cv" 1519996215
+  "/etc/texmf/web2c/texmf.cnf" 1519993805 1101 af7716885e081ab43982cab7b4672c1a ""
+  "/home/blr/Documents/latex_cv/draft_cv.tex" 1519996215 8927 78b6a4aa7629dd4d1a2747dea8203202 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm" 1136768653 2796 d37c29814a6717720ee1a7c9a0b2c3b8 ""
@@ -83,13 +83,13 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1511912508 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1511912517 3853718 18823355c34182c9ddd8350a0ee93b31 ""
-  "draft_cv.aux" 1514326362 744 9979fe1e4751d0754ec16ccbd6bad158 ""
-  "draft_cv.out" 1514326362 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "draft_cv.tex" 1514326359 8699 3740527825aa653d95764d09af71dce0 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1519993995 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1519994003 3854212 ea0eafd7c8be8262186249aa3df28c3b ""
+  "draft_cv.aux" 1519996215 744 9979fe1e4751d0754ec16ccbd6bad158 ""
+  "draft_cv.out" 1519996215 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "draft_cv.tex" 1519996215 8927 78b6a4aa7629dd4d1a2747dea8203202 ""
   (generated)
+  "draft_cv.aux"
   "draft_cv.out"
   "draft_cv.log"
   "draft_cv.pdf"
-  "draft_cv.aux"
