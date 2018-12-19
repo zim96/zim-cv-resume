@@ -1,0 +1,147 @@
+%-------------------------
+% Resume in Latex
+% Author : Sourabh Bajaj
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{https://abdulhazim.wordpress.com//}{\Large Abdul Hazim}} & Email : \href{mailto:abdhazim4343@gmail.com}{abdhazim4343@gmail.com}\\
+  \href{https://abdulhazim.wordpress.com/}{https://abdulhazim.wordpress.com/} & Mobile : +60-10-463-8306 \\
+\end{tabular*}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Malaya}{Kuala Lumpur, Malaysia}
+      {Master of Computer Science (Applied Computing); N/A}{Sep. 2018 -- Present}
+    \resumeSubheading
+      {University of Nottingham}{Nottingham, England, United Kingdom}
+      {BSc (Hons) Computer Science with Artificial Intelligence;  First (70\%)}{Sep. 2017 -- Jul. 2018}
+    \resumeSubheading
+      {University of Nottingham Malaysia Campus}{Semenyih, Selangor, Malaysia}
+      {BSc (Hons)  Computer Science with Artificial Intelligence;  First (77\%)}{Sep. 2015 -- Jul. 2017}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Crops for the Future Research Centre (CFFRC)}{Semenyih, Selangor, Malaysia}
+      {Student Placement in the form of a Group Project}{Oct. 2016 - Apr. 2017}
+      \resumeItemListStart
+        \resumeItem{Google Cloud Platform}
+          {The Google Cloud Platform is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products. At CFFRC, I mainly utilised the Google Maps API.}
+        \resumeItem{LAMP Stack: Linux, Apache HTTP Server, MySQL, PHP}
+          {LAMP is a web service/application model. At CFFRC, I utilised it to build 2 web applications. Firstly, a web application that could search and traverse the taxonomy of plants and animals, allowing the user to find variants of a species or other species within the same genus. Second, a web application that ranks the location data in the database by distance and political jurisdiction.}
+        \resumeItem{Soft Skills}
+	{Being elected team leader allowed me to experience the real-world conditions in a Software Development team. It also was the opportunity to practice Software Engineering methodologies.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Artificial 'Bokeh' using Binocular Stereo Vision [Nov 2018]}
+      {'Bokeh' is a term used by photographers to produce out-of-focus style effects to enhance the aesthetic value of an image. It is used selectively, blurring the background to enhance the importance of the subject in images. Here, I developed a Python 3 programme in the form of a Jupyter Notebook that could produce the same effect without the use of expensive lenses and cameras.}
+     \resumeSubItem{Accelerating Optimisation using Machine Learning [Sep 2017 - May 2018]}
+      {Research project to learn whether Machine Learning can be used to accelerate the optimisation of policies for the Online Bin Packing problem which is a toy problem with links to real-world logistical issues. The findings were inconclusive but led to the creation of more accurate research questions.}
+     \resumeSubItem{Comparisons of Stereo Correspondence Algorithms [Apr 2018]}
+      {As part of the learning process, implement and compare the quality and time complexity of various algorithms that produces depth map of a scene from stereo images. Here, MATLAB is primarily used. Block Matching algorithms in various configurations are used, experimenting with different feature descriptors such as Sum of Squared Differences (SSD), Normalised Cross Correlation (NCC) and Speeded Up Robust Features (SURF).}
+    \resumeSubItem{Distributive Foraging Reflexive Multi-Agent System [Apr 2018]}
+      {A Multi-Agent System to play a game of waste collection and disposal. The agents using the algorithm I developed were able to effectively cooperate and avoid competition to further enhance the performance of waste disposal in the game which led to higher scores.}
+    \resumeSubItem{Foraging Reflex Agent with Pseudo-deliberation [Mar 2018]}
+      {A Single-Agent System to play a game of waste collection and disposal. The agent using the algorithm I developed was able to effectively explore the environment whilst maintaining enough fuel to survive in the game. It also remembers areas which had high density of waste generators. These features led to high scores.}
+    \resumeSubItem{Klang Valley KTM Komuter e-Schedule for Android [Sep 2017]}
+      {A simple Android application to allow users to easily find out the departure or arrival time of a train. It's graphical user interface (GUI) is optimised for quick operations with a feature to save important routes to the user. This is accomplished with easy gestures, large text and large buttons. For the sake performance, only a locally stored database is used.}
+  \resumeSubHeadingListEnd
+
+
+%--------PROGRAMMING SKILLS------------
+
+\section{Programming Skills}
+  \resumeSubHeadingListStart
+    \item{
+      \textbf{Languages}{: C, C++,  Java, Python, MATLAB, SQL, Javascript, CSS, HTML, PHP, Haskell, R}
+     \item
+      \textbf{Technologies}{: LAMP Stack, MEAN Stack, RStudio, Jupyter Notebook, Git, Google Cloud Platform, Microsoft Azure, Microsoft Visual Studio, Microsoft Office, Linux (Ubuntu/Debian), Microsoft Windows}
+    }
+  \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}
