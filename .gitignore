@@ -1,6 +1,6 @@
-cv_2.synctex.gz
-cv_2.out
-cv_2.log
-cv_2.fdb_latexmk
-cv_2.fls
-cv_2.aux
+*.synctex.gz
+*.out
+*.log
+*.fdb_latexmk
+*.fls
+*.aux
